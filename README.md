@@ -20,4 +20,5 @@ Business Impact & Insights-Identifies top-performing product categories and cust
 
 Reveals regional sales performance.
 
-Helps identify growth opportunities and improve business decisions
+Helps identify growth opportunities and improve business decisions 
+see what dashboard looks like-https://github.com/Arsh7983/dashboard-/blob/main/_Sales%20and%20Profit%20Dashboard%20Blue-Toned
