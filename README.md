@@ -35,6 +35,6 @@ Business Impact & Insights-
                            Identifies top-performing product categories and customers.
                            Highlights monthly sales and yearly profit trends.
                            Reveals regional sales performance.
-                           Helps identify growth opportunities and improve business decisions                                                                                                                                                                       Screenshot/Demos:  
+                           Helps identify growth opportunities and improve business decisions                                                                                                                                                                                                                                                                                                         Screenshot/Demos:  
                            Show what the dashboard looks like:https://github.com/Arsh7983/dashboard-/blob/main/Screenshot%20from%202026-11-17%2010-18-54.png
                            
